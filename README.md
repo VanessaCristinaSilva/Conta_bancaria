@@ -31,6 +31,10 @@ Foram criados métodos para:
   
 ![image](https://github.com/VanessaCristinaSilva/Conta_bancaria/assets/115050243/ea744184-40cc-4aa3-a1d1-de7a738ace9a)
 
+### Testando a Classe com o método inserido
+
+![image](https://github.com/VanessaCristinaSilva/Conta_bancaria/assets/115050243/5176c0e5-42df-4a8e-8847-878a63852440)
+
 
 ### Classe Runner
 Foi necessário a criação de uma classe simples chamada “Runner.java” para rodar o projeto, sempre que necessário:
