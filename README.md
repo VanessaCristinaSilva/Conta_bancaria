@@ -25,7 +25,6 @@ Com os devidos pontos levantados e a nova configuração realizada, o próximo p
 Foi necessário a criação de uma classe simples chamada “Runner.java” para rodar o projeto, sempre que necessário:
 
 ![image](https://github.com/VanessaCristinaSilva/Conta_bancaria/assets/115050243/4061561e-0d2b-4084-b1a6-c0b801cda16c)
-
  
 ### Test Junit
 Test Junit esse teste é responsável por executar os testes em uma classe de teste específica e gerar relatórios dos resultados, , no caso foi executado na classe Runner.java do projeto,
