@@ -20,6 +20,17 @@ Com os devidos pontos levantados e a nova configuração realizada, o próximo p
 
  ![image](https://github.com/VanessaCristinaSilva/Conta_bancaria/assets/115050243/e31c1c95-7613-4be5-8ea6-78a7098c1593)
 
+## Métodos criados no Classe
+
+Foram criados métodos para:
+
++ Informar o saldo inicial
++ Quando ocorrer saque
++ Quando ocorrer depósito
++ Atualização de saldo
+  
+![image](https://github.com/VanessaCristinaSilva/Conta_bancaria/assets/115050243/ea744184-40cc-4aa3-a1d1-de7a738ace9a)
+
 
 ### Classe Runner
 Foi necessário a criação de uma classe simples chamada “Runner.java” para rodar o projeto, sempre que necessário:
